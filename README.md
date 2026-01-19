@@ -23,4 +23,5 @@ Total Reviews: 9,791
 - Main issues: login problems, app errors, download failures
 
 ## Dashboard
-Tableau Public: [link kamu di sini]
+Tableau Public: https://public.tableau.com/views/SentimentofIpusnasApplication/Dashboard1
+
